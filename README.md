@@ -88,11 +88,15 @@ Deployed using Streamlit.
 
 
 **AI Story Board Creator with Enhanced Story**
+
+
 Storyboarding is a crucial but time-consuming step in filmmaking and animation. This project automates the storyboard creation process using Large Language Models (LLMs) and diffusion-based image generation models, transforming a plain-text story into a cinematically structured storyboard with visual clarity.
 
 The system focuses on visual storytelling, not dialogue or literary writing, ensuring that every output is drawable, interpretable, and production-ready.
 
 **Future Projects**
+
+
 🧠 **AI-Powered Text-to-Video Creation Platform**
 A production-grade, fully automated text-to-video pipeline that transforms preprocessed text into minimalist, pedagogically optimized PowerPoint slides, personalized voice-over narration using user voice cloning, and an on-screen AI avatar that explains the content — all without cameras, recording, or video editing.
 
